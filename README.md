@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nguyen Anh Trieu 
 - 👀 I living HO CHI MINH CITY, 
-- 🌱 I’m currently learning HCMUTE and Styding Data Engineer
+- 🌱 I’m currently learning HCMUTE and Studing Data Engineer
 - 💞️ I'm from VietNamese
 - 📫 I like music, Pretty woman 
 
