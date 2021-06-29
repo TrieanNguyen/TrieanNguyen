@@ -1,3 +1,4 @@
+💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
 - 👋 Hi, I'm Nguyen Anh Trieu 💮 💮 💮 💮 💮 💮 💮 💮 💮 💮
 - 👀 I living HO CHI MINH CITY, 
 - 🌱 I’m currently learning HCMUTE and Studing Data Engineer
